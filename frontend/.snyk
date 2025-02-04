@@ -46,3 +46,7 @@ patch:
         patched: '2024-11-23T06:03:42.975Z'
         id: SNYK-JS-LODASH-567746
         path: react-scripts > @babel/core > @babel/generator > lodash
+    - react-scripts > @babel/core > @babel/generator > lodash:
+        patched: '2025-02-04T04:19:18.303Z'
+        id: SNYK-JS-LODASH-567746
+        path: react-scripts > @babel/core > @babel/generator > lodash
