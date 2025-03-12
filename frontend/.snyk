@@ -54,3 +54,7 @@ patch:
         patched: '2025-03-04T04:56:31.203Z'
         id: SNYK-JS-LODASH-567746
         path: react-scripts > @babel/core > @babel/traverse > lodash
+    - react-scripts > @babel/core > @babel/traverse > lodash:
+        patched: '2025-03-11T03:50:51.047Z'
+        id: SNYK-JS-LODASH-567746
+        path: react-scripts > @babel/core > @babel/traverse > lodash
