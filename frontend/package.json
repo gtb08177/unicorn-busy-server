@@ -9,7 +9,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
-    "@snyk/protect": "1.1297.3"
+    "@snyk/protect": "1.1298.0"
   },
   "scripts": {
     "start": "react-scripts start",
